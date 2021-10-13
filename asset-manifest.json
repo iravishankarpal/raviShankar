@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/raviShankar/static/css/main.6ace2eb8.chunk.css",
+    "main.js": "/raviShankar/static/js/main.7d975fbd.chunk.js",
+    "main.js.map": "/raviShankar/static/js/main.7d975fbd.chunk.js.map",
+    "runtime-main.js": "/raviShankar/static/js/runtime-main.682ff4be.js",
+    "runtime-main.js.map": "/raviShankar/static/js/runtime-main.682ff4be.js.map",
+    "static/css/2.28bb0c3d.chunk.css": "/raviShankar/static/css/2.28bb0c3d.chunk.css",
+    "static/js/2.a828c13a.chunk.js": "/raviShankar/static/js/2.a828c13a.chunk.js",
+    "static/js/2.a828c13a.chunk.js.map": "/raviShankar/static/js/2.a828c13a.chunk.js.map",
+    "index.html": "/raviShankar/index.html",
+    "static/css/2.28bb0c3d.chunk.css.map": "/raviShankar/static/css/2.28bb0c3d.chunk.css.map",
+    "static/css/main.6ace2eb8.chunk.css.map": "/raviShankar/static/css/main.6ace2eb8.chunk.css.map",
+    "static/js/2.a828c13a.chunk.js.LICENSE.txt": "/raviShankar/static/js/2.a828c13a.chunk.js.LICENSE.txt",
+    "static/media/cv.aca64c41.pdf": "/raviShankar/static/media/cv.aca64c41.pdf",
+    "static/media/dowload-icon.6901fe95.svg": "/raviShankar/static/media/dowload-icon.6901fe95.svg",
+    "static/media/github-icon-1.e0d7d725.svg": "/raviShankar/static/media/github-icon-1.e0d7d725.svg",
+    "static/media/gmail-icon.b691bcf5.svg": "/raviShankar/static/media/gmail-icon.b691bcf5.svg",
+    "static/media/linkedin-icon.ed1324b3.svg": "/raviShankar/static/media/linkedin-icon.ed1324b3.svg",
+    "static/media/ravi.4e2ded96.svg": "/raviShankar/static/media/ravi.4e2ded96.svg",
+    "static/media/ravishankarpal.930a1d75.png": "/raviShankar/static/media/ravishankarpal.930a1d75.png",
+    "static/media/whatsapp-icon.7f595492.svg": "/raviShankar/static/media/whatsapp-icon.7f595492.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.682ff4be.js",
+    "static/css/2.28bb0c3d.chunk.css",
+    "static/js/2.a828c13a.chunk.js",
+    "static/css/main.6ace2eb8.chunk.css",
+    "static/js/main.7d975fbd.chunk.js"
+  ]
+}
